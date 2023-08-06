@@ -1,0 +1,6 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "filename": "Hurricane-Florence_00000486_Pre_Disaster.Json" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 921.582663702464743, 0.0 ], [ 690.621192309506455, 22.784018710793291 ], [ 686.3609358379166, 0.0 ], [ 921.582663702464743, 0.0 ] ] ] } }
+]
+}
